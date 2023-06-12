@@ -1,0 +1,10 @@
+.App{
+    display: flex;
+}
+.Cards-lineup{
+    display: grid;
+}
+Pages{
+    display: inline-block;
+    
+}
